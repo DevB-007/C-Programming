@@ -6,9 +6,10 @@ int main()
     {
         printf("Current water level: %d liters",x*10);
         printf("\n");
-        sleep(1);
+        sleep(60);
     }
     printf("Tank is full.");
     printf("\nThis program is developed by DEV BUMTARIYA.");
     return 0;
 }
+
